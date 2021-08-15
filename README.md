@@ -24,3 +24,6 @@ NOTE: Only configured to run in Chrome Browser as of now.
 # Built With:
 * [TestCafe](https://testcafe.io/) - Web-based functional testing framework
 * Page Object Model(POM) Design Pattern
+
+# Sample run result:
+![image](https://user-images.githubusercontent.com/57648011/129474755-12b9030f-0375-4cbb-830f-a453be4f129d.png)
