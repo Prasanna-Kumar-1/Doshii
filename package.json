@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "doshiitest": "testcafe chrome tests/testsuite/DoshiiDemoTest.js",
+    "doshiitestreport": "testcafe chrome tests/testsuite/DoshiiDemoTest.js --reporter :reports/report.html"
+  },
+  "dependencies": {
+    "testcafe-reporter-html": "^1.4.6"
+  }
+}
